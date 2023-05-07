@@ -4,7 +4,7 @@ Super Jetroid is an 2D action-advanture game created using the Unity game engine
 
 I created this game through follow the LinkedIn learning course which name is "Unity 5: 2D Building an Advanture Game". Although this course follow the Unity 5, I used the latest version of Unity and optimized the game for the latest version of the game engine. 
 
-#The scope of the course included
+## The scope of the course included
  <ul>
   <li>Creating a new scene</li>
   <li>Importing and optimizing existing artwork as sprites</li>
